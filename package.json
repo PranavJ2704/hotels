@@ -1,0 +1,16 @@
+{
+  "name": "mongowithnode",
+  "version": "1.0.0",
+  "description": "mongodb connected with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.4",
+    "moongoose": "^0.0.5"
+  }
+}
